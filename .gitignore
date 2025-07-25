@@ -1,26 +1,3 @@
-# Ignore everything by default
-*
-
-# Except these files/folders:
-!.gitignore
-!package.json
-!package-lock.json
-!vite.config.js
-!README.md
-!index.html
-!eslint.config.js
-
-# Allow folders:
-!src/
-!public/
-
-# Ignore logs/debug files
-logs
-npm-debug*
-yarn-debug*
-yarn-error*
-pnpm-debug*
-lerna-debug*
 
 # Ignore output
 node_modules/
